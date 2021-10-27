@@ -22,7 +22,7 @@
 <img align = "center" alt= "Discord"src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 
    
-   ![Snake ainmation](https://github.com/Shaaman331/Shaaman331/blob/output/github-contribuion-grid-snake.svg)
+   ![Snake animation](https://github.com/Shaaman331/Shaaman331/blob/output/github-contribution-grid-snake.svg)
    
 </div><br>
 
